@@ -58,17 +58,16 @@ let solution = Solution()
 // Test case 1
 let nums1 = [2, 7, 11, 15]
 let target1 = 9
-print(solution.twoSum(nums1, target1)) // Output: [0, 1]
+//print(solution.twoSum(nums1, target1)) // Output: [0, 1]
 
 // Test case 2
 let nums2 = [3, 2, 4]
 let target2 = 6
-print(solution.twoSum(nums2, target2)) // Output: [1, 2]
+//print(solution.twoSum(nums2, target2)) // Output: [1, 2]
 
 // Test case 3
 let nums3 = [3, 3]
 let target3 = 6
-print(solution.twoSum(nums3, target3)) // Output: [0, 1]
+//print(solution.twoSum(nums3, target3)) // Output: [0, 1]
 
 
-//: [Next](@next)

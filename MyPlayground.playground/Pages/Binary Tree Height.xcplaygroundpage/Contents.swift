@@ -51,5 +51,6 @@ for value in nodes {
     root = tree.insert(root: root, data: value)
 }
 
-print("Binary Tree Height: \(tree.getHeight(root: root))")
+//print("Binary Tree Height: \(tree.getHeight(root: root))")
+
 //: [Next](@next)

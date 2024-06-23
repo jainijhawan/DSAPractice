@@ -25,7 +25,7 @@ func binarySearch(arr: [Int], target: Int) -> Int? {
 let sortedArray = [1, 3, 5, 7, 9, 11, 13, 15, 17]
 let targetElement = 99
 let index = binarySearch(arr: sortedArray, target: targetElement)
-print("Element \(targetElement) found at index \(String(describing: index))")
+//print("Element \(targetElement) found at index \(String(describing: index))")
 
 
 

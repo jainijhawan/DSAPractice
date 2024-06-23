@@ -46,5 +46,5 @@ func divideAndMerge(left: [Int], right: [Int]) -> [Int] {
     return answer
 }
 
-print("Merge Sorted Array = \(mergeSort(arr: unsortedArray))")\
+//print("Merge Sorted Array = \(mergeSort(arr: unsortedArray))")\
 //: [Next](@next)
